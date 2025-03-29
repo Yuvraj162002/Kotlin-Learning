@@ -8,7 +8,7 @@ Welcome to my Kotlin Learning Repository! After 3 years, this is my first push o
    - Learn about Kotlin's companion objects and how they are used.
 
 2. **Conditions Learning** 🔍
-   - Understand how to use conditional statements in Kotlin, including if-else and when expressions.
+   - Understand how to use conditional statements in Kotlin, including for and forEach Loop and when expressions.
 
 3. **Questions for Conditions Learning** ❓
    - Test your knowledge with some questions related to conditional statements in Kotlin.
