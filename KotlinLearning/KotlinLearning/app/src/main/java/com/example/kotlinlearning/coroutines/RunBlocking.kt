@@ -20,7 +20,7 @@ fun startWithRunBlocking() {
         Log.e(TAG, "coroutines executed inside the threads.")
 
         /**
-         * Here this not block this both the bg1 and bg2 thread because this is launched in the bg thread, and runblocking is used to block the main thread only.
+         * Here this not block this both the bg1 and bg2 thread because this is launched in the bg thread, and runBlocking is used to block the main thread only.
          */
         launch(Dispatchers.IO) {
             delay(3000)
